@@ -2,7 +2,7 @@
 title: "Tout savoir sur le congé parental d'éducation : Guide complet"
 metaTitle: "Guide complet du congé parental d'éducation"
 metaDescription: "Découvrez tout ce qu'il faut savoir sur le congé parental d'éducation : droits, procédures et durées."
-date: 2024-11-07T01:00:00Z
+date: 2024-12-07T01:00:00Z
 image: /images/post/conge-parental-deducation.webp
 categories: ["travailleurs"]
 featured: true

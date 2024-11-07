@@ -2,7 +2,7 @@
 title: "Concurrence Déloyale : Guide Pratique pour les Avocats"
 metaTitle: "Concurrence Déloyale Avocat: Tout Savoir"
 metaDescription: "Découvrez tout sur la concurrence déloyale pour les avocats, ses implications et les recours possibles."
-date: 2024-11-06T01:00:00Z
+date: 2024-12-06T01:00:00Z
 image: /images/post/concurrence-deloyale-de-quoi-parle-t.webp
 categories: ["entrepreneuriat"]
 featured: true
