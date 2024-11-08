@@ -2,7 +2,7 @@
 title: "Congé de solidarité familial : tout ce que vous devez savoir"
 metaTitle: "Congé de solidarité familial: Guide complet"
 metaDescription: "Découvrez tout sur le congé de solidarité familial, ses conditions et son processus."
-date: 2024-11-08T01:00:00Z
+date: 2024-12-08T01:00:00Z
 image: /images/post/conge-de-solidarite-familiale.webp
 categories: ["travailleurs"]
 featured: true
