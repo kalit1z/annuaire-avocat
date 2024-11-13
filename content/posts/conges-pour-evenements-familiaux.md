@@ -2,7 +2,7 @@
 title: "Tout Savoir sur le Congé Mariage : Droit, Durée et Astuces"
 metaTitle: "Congé Mariage : Droits et Informations Utiles"
 metaDescription: "Découvrez tout sur le congé mariage, ses droits, sa durée et les congés exceptionnels pour événements familiaux."
-date: 2024-11-12T01:00:00Z
+date: 2024-12-12T01:00:00Z
 image: /images/post/conges-pour-evenements-familiaux.webp
 categories: ["travailleurs"]
 featured: true
