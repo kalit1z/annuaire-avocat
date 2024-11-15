@@ -2,7 +2,7 @@
 title: "Contrat de Travail Déterminé : Tout Ce Que Vous Devez Savoir"
 metaTitle: "Contrat de Travail Déterminé : Guide Complet"
 metaDescription: "Découvrez tout sur le contrat de travail déterminé, sa durée, ses implications et son cadre légal en France."
-date: 2024-11-14T01:00:00Z
+date: 2024-12-14T01:00:00Z
 image: /images/post/contrat-de-travail-duree-determinee.webp
 categories: ["travailleurs"]
 featured: true
