@@ -2,7 +2,7 @@
 title: "Charges Déductibles des Impôts : Liste Essentielle à Connaître"
 metaTitle: "Charges Déductibles des Impôts : Guide Complet"
 metaDescription: "Découvrez les charges déductibles de vos impôts pour optimiser votre déclaration et réduire votre imposition."
-date: 2024-11-16T01:00:00Z
+date: 2024-12-16T01:00:00Z
 image: /images/post/deductions-sur-le-revenu-imposable.webp
 categories: ["finance"]
 featured: true
