@@ -2,11 +2,11 @@
 title: "Tout savoir sur le document comptable : Guide complet "
 metaTitle: "Documents comptables : Guide complet "
 metaDescription: "Découvrez tout sur les documents comptables, leur importance, et les obligations légales en France."
-date: 2024-11-25T01:00:00Z
+date: 2024-11-26T01:00:00Z
 image: /images/post/document_comptable.webp
 categories: ["administratif"]
 featured: true
-draft: true
+draft: false
 ---
 
 Le monde de la comptabilité est régi par des règles strictes et des obligations légales qui doivent être respectées par toutes les entreprises. Les documents comptables jouent un rôle crucial dans la gestion financière d'une entité, garantissant conformité et transparence. Cet article vous propose un aperçu complet des documents comptables, de leur importance, et des exigences auxquelles les entreprises doivent se conformer en France.
