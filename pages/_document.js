@@ -6,7 +6,7 @@ const Document = () => {
   // destructuring items from config object
   const { favicon } = config.site;
   return (
-    <Html lang="en">
+    <Html lang="fr">
       <Head>
         {/* favicon */}
         <link rel="shortcut icon" href={favicon} />
@@ -18,6 +18,10 @@ const Document = () => {
           media="(prefers-color-scheme: light)"
           content="#fff"
         />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4432019948702503"
+          crossorigin="anonymous">
+        </script>
+        <meta name="google-adsense-account" content="ca-pub-4432019948702503"></meta>
         <meta
           name="theme-color"
           media="(prefers-color-scheme: dark)"
