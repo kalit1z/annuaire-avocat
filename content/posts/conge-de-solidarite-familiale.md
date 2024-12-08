@@ -6,7 +6,7 @@ date: 2024-12-08T01:00:00Z
 image: /images/post/conge-de-solidarite-familiale.webp
 categories: ["travailleurs"]
 featured: true
-draft: true
+draft: false
 ---
 
 Le **congé de solidarité familial** est un dispositif important qui permet aux travailleurs de s'absenter de leur poste pour soutenir un proche en fin de vie. Ce congé, qui répond à des circonstances particulièrement éprouvantes, est encadré par la loi pour garantir que les employés puissent s'acquitter de cette responsabilité tout en préservant leur emploi et leur revenu.
