@@ -2,11 +2,11 @@
 title: "Tout savoir sur le congé parental d'éducation : Guide complet"
 metaTitle: "Guide complet du congé parental d'éducation"
 metaDescription: "Découvrez tout ce qu'il faut savoir sur le congé parental d'éducation : droits, procédures et durées."
-date: 2024-12-27T01:00:00Z
+date: 2024-12-11T01:00:00Z
 image: /images/post/conge-parental-deducation.webp
 categories: ["travailleurs"]
 featured: true
-draft: true
+draft: false
 ---
 
 Le congé parental d'éducation est un dispositif important permettant aux parents de prendre soin de leur enfant tout en se retirant temporairement du monde du travail. En France, ce congé est encadré par la loi et offre aux familles une flexibilité nécessaire durant les premières années de vie du bébé. Mais quelles sont les modalités précises de ce congé ? Quels en sont les avantages et limites ?
