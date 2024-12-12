@@ -2,7 +2,7 @@
 title: "Contestations de Paternité : Guide Complet sur Vos Droits"
 metaTitle: "Action en Contestation de Paternité - Vos Droits"
 metaDescription: "Découvrez tout sur l'action en contestation de paternité, son cadre légal et vos droits."
-date: 2024-12-12T01:00:00Z
+date: 2024-12-22T01:00:00Z
 image: /images/post/contestations_de_paternite.webp
 categories: ["familiale"]
 featured: true

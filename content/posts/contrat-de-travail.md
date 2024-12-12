@@ -2,7 +2,7 @@
 title: "Tout ce que vous devez savoir sur le Letese URSSAF en 2025"
 metaTitle: "Letese URSSAF : Guide Complet 2025"
 metaDescription: "Découvrez tout sur le Letese URSSAF, y compris les obligations des employeurs et des travailleurs en 2025."
-date: 2024-12-12T01:00:00Z
+date: 2024-12-22T01:00:00Z
 image: /images/post/contrat-de-travail.webp
 categories: ["travailleurs"]
 featured: true
