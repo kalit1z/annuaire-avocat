@@ -2,11 +2,11 @@
 title: "TVA : Tout savoir sur les taux et leur impact en 2025"
 metaTitle: "Comprendre les taux de TVA en 2025"
 metaDescription: "Découvrez les différents taux de TVA, notamment le taux de luxe, et leur impact sur les consommateurs en 2025."
-date: 2024-12-21T01:00:00Z
+date: 2024-12-20T01:00:00Z
 image: /images/post/differents-taux-de-tva.webp
 categories: ["entrepreneuriat"]
 featured: true
-draft: true
+draft: false
 ---
 
 La taxe sur la valeur ajoutée (TVA) est un impôt que tous les consommateurs rencontrent au quotidien, que ce soit lors de l'achat de biens ou de services. Avec des taux qui varient selon la nature des produits, il est crucial de bien comprendre comment cela fonctionne, surtout pour les produits de luxe. Dans cet article, nous allons explorer les différents taux de TVA applicables en France, en mettant l'accent sur le taux de luxe, les produits concernés et les implications que cela peut avoir pour les consommateurs.
