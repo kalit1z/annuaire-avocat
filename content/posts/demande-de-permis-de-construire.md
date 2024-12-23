@@ -2,11 +2,11 @@
 title: "Comment Faire une Demande de Permis de Construction Réussie !"
 metaTitle: "Demande de Permis de Construction : Guide Complet"
 metaDescription: "Découvrez le processus complet pour faire une demande de permis de construction en France. Conseils et étapes clés !"
-date: 2024-12-22T01:00:00Z
+date: 2024-12-23T01:00:00Z
 image: /images/post/demande-de-permis-de-construire.webp
 categories: ["administratif"]
 featured: true
-draft: true
+draft: false
 ---
 
 Les projets de construction nécessitent souvent d'obtenir un permis de construire pour garantir la conformité avec les règlements d'urbanisme. Que vous souhaitiez construire une maison, une extension ou un autre bâtiment, il est essentiel de comprendre le processus de demande de permis de construction. Cet article vous guidera à travers chaque étape, en détaillant les exigences, les documents nécessaires et les délais d'attente. 
@@ -49,9 +49,9 @@ Voici un tableau récapitulatif des documents généralement exigés :
 
 | Type de Projet                   | Documents à Fournir                                    |
 |----------------------------------|-------------------------------------------------------|
-| **Maison individuelle**          | - Formulaire cerfa n° 13406<br>- Plan de masse<br>- Description du projet |
-| **Extension**                    | - Formulaire cerfa n° 13406<br>- Plans avant/après<br>- Photos de l'existant |
-| **Changement de destination**    | - Formulaire cerfa n° 13409<br>- Justificatifs de conformité   |
+| **Maison individuelle**          | - Formulaire cerfa n° 13406- Plan de masse- Description du projet |
+| **Extension**                    | - Formulaire cerfa n° 13406- Plans avant/après- Photos de l'existant |
+| **Changement de destination**    | - Formulaire cerfa n° 13409- Justificatifs de conformité   |
 
 ### Comment faire la demande ?
 

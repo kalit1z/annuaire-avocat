@@ -2,7 +2,7 @@
 title: "Conseil de Prud'hommes : Guide Pratique pour vos Droits"
 metaTitle: "Tout savoir sur le Conseil de Prud'hommes en France"
 metaDescription: "Découvrez tout sur le Conseil de Prud'hommes, avocats spécialisés et vos droits en tant que salarié."
-date: 2024-12-22T01:00:00Z
+date: 2024-12-25T01:00:00Z
 image: /images/post/conseil-de-prudhommes.webp
 categories: ["travailleurs"]
 featured: true
