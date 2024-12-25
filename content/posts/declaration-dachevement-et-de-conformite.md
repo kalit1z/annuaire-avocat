@@ -2,7 +2,7 @@
 title: "Déclaration de Fin de Travaux : Délai à Respecter en 2025"
 metaTitle: "Délai Déclaration de Fin de Travaux en 2025"
 metaDescription: "Découvrez les délais de déclaration de fin de travaux et leur conformité en France."
-date: 2024-12-24T01:00:00Z
+date: 2025-01-02T01:00:00Z
 image: /images/post/declaration-dachevement-et-de-conformite.webp
 categories: ["administratif"]
 featured: true
