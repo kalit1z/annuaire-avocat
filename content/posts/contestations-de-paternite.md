@@ -2,11 +2,11 @@
 title: "Contestations de Paternité : Guide Complet sur Vos Droits"
 metaTitle: "Action en Contestation de Paternité - Vos Droits"
 metaDescription: "Découvrez tout sur l'action en contestation de paternité, son cadre légal et vos droits."
-date: 2025-01-29T01:00:00Z
+date: 2025-01-04T01:00:00Z
 image: /images/post/contestations_de_paternite.webp
 categories: ["familiale"]
 featured: true
-draft: true
+draft: false
 ---
 
 La contestation de paternité est un sujet d'une grande importance dans le domaine du droit de la famille. Elle peut avoir des conséquences majeures, tant sur le plan personnel que juridique. Que vous soyez un père contesté ou que vous cherchiez à comprendre les implications d'une telle action, il est essentiel de connaître vos droits et les démarches à suivre.
