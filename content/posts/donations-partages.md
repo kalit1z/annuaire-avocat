@@ -2,7 +2,7 @@
 title: "Tout savoir sur les donations partages : Guide complet 2025"
 metaTitle: "Guide complet sur les donations partages en 2025"
 metaDescription: "Découvrez les essentiels des donations partages, leur impact sur la succession et les aspects juridiques essentiels."
-date: 2025-01-12T01:00:00Z
+date: 2025-01-22T01:00:00Z
 image: /images/post/donations-partages.webp
 categories: ["aide"]
 featured: true

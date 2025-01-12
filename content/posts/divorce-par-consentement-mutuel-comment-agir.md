@@ -2,7 +2,7 @@
 title: "Divorcer par Consentement Mutuel : Guide Complet et Pratique"
 metaTitle: "Divorce par Consentement Mutuel : Tout savoir sur le processus"
 metaDescription: "Découvrez le divorce par consentement mutuel, sa procédure, ses avantages et les rôles des avocats. Guide complet en 2024."
-date: 2025-01-08T01:00:00Z
+date: 2025-01-18T01:00:00Z
 image: /images/post/divorce-par-consentement-mutuel-comment-agir.webp
 categories: ["familiale"]
 featured: true

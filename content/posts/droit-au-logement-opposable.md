@@ -2,7 +2,7 @@
 title: "Avocat en Droit du Logement : Protégez vos Droits Locatifs"
 metaTitle: "Avocat Droit du Logement - Défendez vos Droits"
 metaDescription: "Découvrez comment un avocat en droit du logement peut vous aider à protéger vos droits locatifs et à naviguer dans le système de logement social."
-date: 2025-01-14T01:00:00Z
+date: 2025-01-24T01:00:00Z
 image: /images/post/droit-au-logement-opposable.webp
 categories: ["entrepreneuriat"]
 featured: true
