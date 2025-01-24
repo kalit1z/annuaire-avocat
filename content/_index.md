@@ -16,9 +16,9 @@ featured_posts:
   title: En vedette
 
 promotion:
-  enable: true
+  enable: false
   image: /images/promotion.png
-  link: "https://www.fastercook.fr/avocat"
+  link: ""
 
 recent_posts:
   title: Posts récent

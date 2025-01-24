@@ -15,7 +15,7 @@ function CustomForm({ status, message, onValidated }) {
 
   return (
     <>
-        <a href="https://www.fastercook.fr/avocat" className="d-block  btn btn-primary mt-4 w-full">
+        <a href="#" className="d-block  btn btn-primary mt-4 w-full">
           Récupérer mon guide ! 
         </a>
     </>    
