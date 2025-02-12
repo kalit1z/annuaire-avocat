@@ -2,7 +2,7 @@
 title: "Comment réussir votre recherche de marque INPI : Guide complet"
 metaTitle: "Recherche de marque INPI : Tout ce qu'il faut savoir"
 metaDescription: "Découvrez comment effectuer une recherche de marque INPI et les étapes essentielles pour protéger votre marque."
-date: 2025-02-12T01:00:00Z
+date: 2025-02-11T01:00:00Z
 image: /images/post/depot-de-marques-inpi-recherches-danteriorite-cession-licence-transfert-0.webp
 categories: ["entrepreneuriat"]
 featured: true
